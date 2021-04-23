@@ -1,0 +1,47 @@
+#container{
+    margin:0px;
+}
+#topstripe{
+    background-color:darkcyan;
+    height:90px;
+    width:620px;
+    margin:0px;
+}
+#botstripe{
+    border: 2px solid lightgray;
+    border-top:none;
+    width:597px;
+    margin:0px;
+    padding-top:35px;
+    padding-left:20px;
+    padding-bottom:20px;
+}
+.lines,h1{
+    margin:0px;
+}
+h3{
+    margin:0px;
+    padding-bottom:10px;
+
+}
+
+h3 img{
+    margin-right:4px;
+}
+.usercircle{
+   height: 80px;
+   position:absolute;
+   top:55px;
+   left:30px;
+}
+/* look up first_child */
+.marker{
+    height:15px;
+    margin-top:
+}
+.gear{
+    height:15px;
+    padding-right:8px;
+    margin-top: 5px;
+}
+    
